@@ -57,15 +57,6 @@ Hey! I'm **Siddhant**, a Computer Engineering student at **D. Y. Patil College o
 | **PHYVERR** · <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-F59E0B?style=flat-square" alt="In development" /> | India-first local physical-services marketplace connecting clients with service providers. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Redis |
 | [**YOUVYX**](https://github.com/SiddhantDYPCOE/YOUVYX) | Social learning platform focused on sharing productive content and connecting learners. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL |
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SiddhantDYPCOE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Siddhant's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantDYPCOE&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SiddhantDYPCOE&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
 ## 🤝 Let's Connect
 
 I'm open to connecting with developers, collaborating on interesting projects, and learning from the community.
