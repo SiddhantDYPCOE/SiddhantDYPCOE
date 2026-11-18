@@ -53,9 +53,8 @@ Hey! I'm **Siddhant**, a Computer Engineering student at **D. Y. Patil College o
 | Project | What it does | Built with |
 |---|---|---|
 | [**LocAt**](https://github.com/SiddhantDYPCOE/LocAt) | Location sharing and journey tracking with real-time updates. | React, Leaflet, Node.js, Express, Prisma, PostgreSQL, Socket.IO |
-| [**MAFIA**](https://github.com/SiddhantDYPCOE/MAFIA) | Real-time multiplayer party game with room-based gameplay and role-based rounds. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Socket.IO |
-| [**Connectly**](https://github.com/SiddhantDYPCOE/P-message-public) | Real-time messaging app with online presence and media sharing. | React, Node.js, Express, MongoDB, Socket.IO, Cloudinary |
-| [**JobSphere**](https://github.com/SiddhantDYPCOE/P-JOBPORTAL-PUBLIC) | Job portal with separate student and admin workflows. | React, Redux Toolkit, Node.js, Express, MongoDB, JWT |
+| [**MAFIA**](https://github.com/SiddhantDYPCOE/MAFIA) | Real-time party game with room-based gameplay and role-based rounds. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Socket.IO |
+| **PHYVERR** · <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-F59E0B?style=flat-square" alt="In development" /> | India-first local physical-services marketplace connecting clients with service providers. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Redis |
 | [**YOUVYX**](https://github.com/SiddhantDYPCOE/YOUVYX) | Social learning platform focused on sharing productive content and connecting learners. | React, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL |
 
 ## 📊 GitHub Stats
